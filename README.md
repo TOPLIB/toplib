@@ -1,6 +1,6 @@
 **🌟 Hello! 👋**
 I’m **Unknown User** (but you can call me **toplib**).
-Stupidest 15 y.o. man ever lived
+Stupidest 15 y.o. human ever lived
 ### **⚡ My Tech Stack**
 - **☕ Java**
 - **🐍 Python**
